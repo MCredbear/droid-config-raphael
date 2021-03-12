@@ -1,0 +1,6 @@
+Description: Pattern with packages for raphael configurations
+Name: jolla-configuration-raphael
+Requires:
+- patterns-sailfish-device-configuration-raphael
+
+Summary: Jolla Configuration raphael
